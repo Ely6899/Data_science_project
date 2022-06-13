@@ -4,3 +4,6 @@ The 'Project' folder contains 2 jupyter notebooks of the project. The mushroom f
 The dictionary file is a file dedicated to simplifing the data on the mushroom project. It has no use in the car price project.
 There are also seperate branches, but they were used for simultanious work on the project. 
 All the project final products are in the master branch!!!
+
+PART 2:
+The project of the second semester is located in the data visualization folder!!
